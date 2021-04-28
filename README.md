@@ -29,7 +29,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 11 | Air Odisha | Airlines | Bhubaneswar | 2012 | Charter airline |
 | 12 | Air India | Airlines | New Delhi | 1932 | Airline |
 | 13 | Air India Express | Airlines | Kochi | 2005 | Low-cost airline, part of Air India |
-| 14 | Amartex | Consumer services | Gurugram | 1984 | Clothing retail |
+| 14 | Amartex | Retailing | Gurugram | 1984 | Clothing retail |
 | 15 | Ambuja Cements | Cement | Mumbai | 1983 | Cement |
 | 16 | Amrutanjan Healthcare | Pharmaceuticals & Drugs | Chennai | 1893 | Pharma, medicine |
 | 17 | Amul | Consumer goods | Anand | 1946 | Dairy |
@@ -119,7 +119,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 101 | Flipkart | Technology | Bengaluru | 2007 | E-commerce |
 | 102 | Force Motors | Consumer goods | Pune | 1958 | Three wheelers, cars |
 | 103 | Fortis Healthcare | Hospital & Healthcare Services | Gurugram | 2001 | Hospitals |
-| 104 | Future Group | Consumer services | Mumbai | 1987 | Diversified retail |
+| 104 | Future Group | Conglomerate | Mumbai | 1987 | Diversified retail |
 | 105 | GAIL | Utilities | New Delhi | 1984 | Natural gas |
 | 106 | Geojit Financial Services | Financials | Kochi | 1987 | Investment Advisory Services |
 | 107 | Glenmark Pharmaceuticals | Pharmaceuticals & Drugs | Mumbai | 1977 | Global pharma |
@@ -256,7 +256,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 238 | Ordnance Factories Board | Defense | Kolkata | 1775 | Defense systems |
 | 239 | Organic India | Consumer goods | Lucknow | 1997\[6\] | Organic foods |
 | 240 | Oswald Labs | Technology | New Delhi | 2016 | Accessibility technology |
-| 241 | Pantaloons Fashion & Retail | Consumer services | Mumbai | 1997 | Clothing retailer |
+| 241 | Pantaloons Fashion & Retail | Retailing | Mumbai | 1997 | Clothing retailer |
 | 242 | Paramount Airways | Airlines | Chennai | 2005 | Airline, defunct 2010 |
 | 243 | Parle Agro | Consumer goods | Mumbai | 1984 | Drinks |
 | 244 | Parle Products | Consumer goods | Mumbai | 1929 | Food |
@@ -280,7 +280,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 262 | Ranbaxy Laboratories | Pharmaceuticals & Drugs | Gurugram | 1961 | Pharma |
 | 263 | Rashtriya Chemicals & Fertilizers | Basic materials | Mumbai | 1978 | Fertilizers |
 | 264 | Rashtriya Ispat Nigam | Basic materials | Visakhapatnam | 1982 | Steel |
-| 265 | Raymond Group | Consumer services | Mumbai | 1925 | Fabric and fashion retailer |
+| 265 | Raymond Group | Retailing | Mumbai | 1925 | Fabric and fashion retailer |
 | 266 | Rediff.com | Technology | Mumbai | 1996 | Information, shopping portal |
 | 267 | Reliance Capital | Financials | Mumbai | 1986 | Part of Reliance Group |
 | 268 | Reliance Communications | Telecommunications | Mumbai | 2002 | Part of Reliance Group |
@@ -296,7 +296,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 278 | Reliance MediaWorks | Media | Mumbai | 1975 | Part of Reliance Group |
 | 279 | Reliance Petroleum | Oil Exploration and Production | Ahmedabad | 2008 | Part of Reliance Industries |
 | 280 | Reliance Power | Power Generation/Distribution | Navi Mumbai | 2007 | Part of Reliance Group |
-| 281 | Reliance Retail | Consumer services | Mumbai | 2006 | Part of Reliance Industries |
+| 281 | Reliance Retail | Retailing | Mumbai | 2006 | Part of Reliance Industries |
 | 282 | RITES | Industrials | Gurugram | 1974 | Transportation infrastructure |
 | 283 | RKSV | Financials | Mumbai | 2009 | Brokerage |
 | 284 | Royal Enfield | Consumer goods | Chennai | 1955 | Motorcycles |
@@ -315,7 +315,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 297 | Shriram Group | Conglomerate | Chennai | 1974 | Financials, industrials, health care |
 | 298 | Singareni Collieries Company | Basic materials | Kothagudem | 1920 | State coal |
 | 299 | Skipper Limited | Industrials | Kolkata | 1981 | Electrical transmission infrastructure |
-| 300 | Snapdeal | Consumer services | New Delhi | 2010 | E-retailer |
+| 300 | Snapdeal | Retailing | New Delhi | 2010 | E-retailer |
 | 301 | Sobha Ltd. | Financials | Bengaluru | 1995 | Developer |
 | 302 | Sonata Software | Software | Bengaluru | 1986 | BI and analytics |
 | 303 | South Indian Bank | Bank - Private | Thrissur | 1929 | Private bank |
@@ -386,7 +386,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 368 | Walchandnagar Industries | Defense | Mumbai | 1908 | Defense, energy, transportation |
 | 369 | Welspun Corp | Industrials | Mumbai | 1995 | Pipes, part of Welspun Group |
 | 370 | Welspun Group | Conglomerate | Mumbai | 1985 | Steel, energy, Oil Exploration and Production |
-| 371 | Welspun India | Consumer goods | Mumbai | 1985 | Clothing, textiles, part of Welspun Group |
+| 371 | Welspun India | Retailing | Mumbai | 1985 | Clothing, textiles, part of Welspun Group |
 | 372 | Welspun Syntex | Industrials | Mumbai | 1982 | Part of Welspun Group |
 | 373 | West Bengal Electronics Industry Development Corporation (WEBEL) | Financials | Kolkata | 1974 | Development and financing |
 | 374 | West Bengal Power Development Corporation | Power Generation/Distribution | Kolkata | 1985 | Power generation |
@@ -396,8 +396,8 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 378 | Wipro | Industrials | Bengaluru | 1945 | Consulting, BPO |
 | 379 | XOLO | Technology | Noida | 2012 | Mobile phones |
 | 380 | Yatra | Consumer services | Gurugram | 2006 | Travel agency |
-| 381 | Yebhi | Consumer services | Gurugram | 2009 | Online retailer |
-| 382 | Yepme | Consumer services | Gurugram | 2011 | Online retailer |
+| 381 | Yebhi | Retailing | Gurugram | 2009 | Online retailer |
+| 382 | Yepme | Retailing | Gurugram | 2011 | Online retailer |
 | 383 | Yes Bank | Bank - Private | Mumbai | 2004 | Private bank |
 | 384 | Zandu Realty | Pharmaceuticals & Drugs | Mumbai | 1910 | Pharma |
 | 385 | Zee Entertainment Enterprises | Consumer services | Mumbai | 1992 | Broadcaster |
