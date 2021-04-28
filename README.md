@@ -32,7 +32,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 14 | Amartex | Retailing | Gurugram | 1984 | Clothing retail |
 | 15 | Ambuja Cements | Cement | Mumbai | 1983 | Cement |
 | 16 | Amrutanjan Healthcare | Pharmaceuticals & Drugs | Chennai | 1893 | Pharma, medicine |
-| 17 | Amul | Consumer goods | Anand | 1946 | Dairy |
+| 17 | Amul | Consumer Food | Anand | 1946 | Dairy |
 | 18 | Apollo Hospitals | Hospital & Healthcare Services | Chennai | 1983 | Hospital chain |
 | 19 | Apollo Tyres | Consumer goods | Gurugram | 1972 | Tyres, parts |
 | 20 | Aptech | Industrials | Mumbai | 1986 | Training |
@@ -64,11 +64,11 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 46 | Biocon | Pharmaceuticals & Drugs | Bengaluru | 1978 | Pharmaceutical ingredients |
 | 47 | Boltt | Consumer goods | Noida | 2015 | Wearable technology |
 | 48 | Bombay Dyeing | Consumer goods | Mumbai | 1879 | Textiles |
-| 49 | Bonn Group of Industries | Consumer goods | Ludhiana | 1985 | Baked goods |
+| 49 | Bonn Group of Industries | Consumer Food | Ludhiana | 1985 | Baked goods |
 | 50 | BPL Group | Consumer goods | Palakkad | 1963 | Consumer electronics |
-| 51 | Britannia Industries | Consumer goods | Kolkata | 1892 | Food products |
+| 51 | Britannia Industries | Consumer Food | Kolkata | 1892 | Food products |
 | 52 | Cadila Healthcare | Pharmaceuticals & Drugs | Ahmedabad | 1952 | Pharma |
-| 53 | Café Coffee Day | Consumer services | Bengaluru | 1996 | Cafe chain |
+| 53 | Café Coffee Day | Consumer Food | Bengaluru | 1996 | Cafe chain |
 | 54 | Calcutta Tramways Company | Consumer services | Kolkata | 1880 | Public transportation |
 | 55 | Canara Bank | Bank - Public | Bangalore | 1906 | State-owned bank |
 | 56 | Catholic Syrian Bank | Bank - Private | Thrissur | 1920 | Private bank |
@@ -88,7 +88,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 70 | Cosmic Circuits | Technology | Bengaluru | 2005 | Acquired by Cadence Design Systems (US) |
 | 71 | Crompton Greaves | Utilities | Mumbai | 1878 | Electrical distribution |
 | 72 | Cyient | Technology | Hyderabad | 1991 | Engineering |
-| 73 | Dabur | Consumer goods | Ghaziabad | 1884 | Alternative medicine |
+| 73 | Dabur | Pharmaceuticals & Drugs | Ghaziabad | 1884 | Alternative medicine |
 | 74 | Damodar Valley Corporation | Power Generation/Distribution | Kolkata | 1948 | Power |
 | 75 | Datamatics | Software | Mumbai | 1987 | Software, BPO |
 | 76 | Deccan Charters | Airlines | Bengaluru | 1997 | Charter airline |
@@ -101,7 +101,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 83 | Eicher Motors | Industrials | Gurugram | 1948 | Commercial |
 | 84 | EID Parry | Consumer goods | Chennai | 1788 | Sugar, distillery |
 | 85 | Elico | Industrials | Hyderabad | 1960 | Analytical equipment |
-| 86 | Emami | Consumer goods | Kolkata | 1974 | Fast-moving consumer goods |
+| 86 | Emami | Pharmaceuticals & Drugs | Kolkata | 1974 | Fast-moving consumer goods |
 | 87 | Emcure Pharmaceuticals | Pharmaceuticals & Drugs | Pune | 1983 | Medicine, pharma |
 | 88 | Engineers India | Oil Exploration and Production | New Delhi | 1965 | Engineering and consulting |
 | 89 | English Indian Clays | Basic materials | New Delhi | 1963 | Clay |
@@ -130,7 +130,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 112 | Gujarat Mineral Development Corporation | Basic materials | Ahmedabad | 1963 | Mining, metals |
 | 113 | GSPC | Oil Exploration and Production | Ahmedabad | 1979 | Petrochemical |
 | 114 | GVK | Conglomerate | Hyderabad | 2005\[3\] | Energy, transportation, hospitality |
-| 115 | Haldiram's | Consumer goods | Bikaner | 1937 | Sweets and snacks |
+| 115 | Haldiram's | Consumer Food | Bikaner | 1937 | Sweets and snacks |
 | 116 | Havells | Industrials | Noida | 1958 | Electrical equipment |
 | 117 | Hawkins Cookers | Consumer goods | Mumbai | 1921 | Cookware |
 | 118 | HCL Technologies | Industrials | Noida | 1976 | Consulting |
@@ -151,7 +151,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 133 | HLL Lifecare | Healtcare | Thiruvananthapuram | 1966 | State-owned manufacturing |
 | 134 | HMT | Industrials | Bengaluru | 1953 | State-owned manufacturing |
 | 135 | Housing Development Finance Corporation (HDFC) | Financials | Mumbai | 1977 | Housing finance |
-| 136 | iball | Consumer goods | Mumbai | 2001 | Consumer items |
+| 136 | iBall | Consumer goods | Mumbai | 2001 | Consumer items |
 | 137 | ICICI Bank | Bank - Private | Mumbai | 1994 | International bank |
 | 138 | IDBI Bank | Bank - Public | Mumbai | 1964 | State bank |
 | 139 | Idea Cellular | Telecommunications | Mumbai | 1995 | Mobile network |
@@ -177,7 +177,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 159 | InMobi | Technology | Singapore | 2007 | Online marketing |
 | 160 | Intelenet Global Services | Industrials | Mumbai | 2000 | Consulting, BPO |
 | 161 | Intex Technologies | Technology | New Delhi | 1996 | Smartphones |
-| 162 | ITC | Conglomerate | Kolkata | 1910 | Consumer goods, hotels, industrials |
+| 162 | ITC | Conglomerate | Kolkata | 1910 | Consumer Food, hotels, industrials |
 | 163 | Ittiam Systems | Technology | Bengaluru | 2001 | DSP equipment |
 | 164 | Jabong.com | Consumer services | Gurugram | 2012 | E-commerce portal |
 | 165 | Jain Irrigation Systems | Industrials | Jalgaon | 1986 | Irrigation equipment |
@@ -188,7 +188,7 @@ Thus I will be making the updates in the "Industry" & "Notes" columns to match t
 | 170 | JSW Ispat Steel | Basic materials | Nagpur | 1984 | Steel, mining |
 | 171 | JSW Steel Ltd | Basic materials | Mumbai | 1982 | Steel |
 | 172 | Kerala Electrical and Allied Engineering Company (KEL) | Industrials | Kochi | 1964 | Heavy electricals |
-| 173 | Jubilant FoodWorks | Consumer services | Noida | 1995 | Food services |
+| 173 | Jubilant FoodWorks | Consumer Food | Noida | 1995 | Food services |
 | 174 | Karbonn Mobiles | Telecommunications | Bengaluru | 2009 | Mobile network |
 | 175 | Karnataka Bank | Bank - Private | Mangaluru | 1924 | Bank |
 | 176 | Karur Vysya Bank | Bank - Private | Karur | 1916 | Bank |
